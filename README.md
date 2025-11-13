@@ -118,4 +118,25 @@ The dashboard follows a **Star Schema** structure for efficient data relationshi
 
 ---
 
-## 📁 Repository Structure
+## 🏁 Conclusion
+
+The **Sales Performance Dashboard** provides an end-to-end Power BI solution for tracking and analyzing sales operations.  
+It transforms static business data into **dynamic, visual insights**, empowering decision-makers to identify trends and opportunities effectively.
+
+---
+
+## 🔮 Future Enhancements
+
+- Add **real-time data refresh** with Power BI Service.  
+- Implement **forecasting and predictive analytics** using AI visuals.  
+- Expand scope to include **inventory and supplier performance**.  
+- Automate **report sharing and alerts** for stakeholders.
+
+---
+
+## 🙌 Author
+
+**Chawhan Bhoomika**  
+🎓 *BCA / Data Analytics Student*  
+💼 *Passionate about Business Intelligence and Data Visualization*  
+📧 bhhomikachawhan07@gmail.com
